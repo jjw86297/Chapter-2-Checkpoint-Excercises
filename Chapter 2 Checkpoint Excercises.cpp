@@ -11,7 +11,7 @@ int main()
 {
     char first = 'J', middle = 'J', last = 'W';
     cout << first << middle << last;
-        return 0;gjgg
+        return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
